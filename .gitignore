@@ -1,0 +1,15 @@
+# Tekstiredaktorite mudru
+*~
+*.swp
+*.bak
+*.tmp
+ 
+# Java projekti jaoks:
+*.class
+ 
+# Python projekti jaoks:
+*.pyc
+ 
+# C/C++ programmi jaoks:
+*.so
+*.o
